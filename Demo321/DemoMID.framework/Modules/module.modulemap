@@ -1,0 +1,6 @@
+framework module DemoMID {
+  umbrella header "DemoMID.h"
+
+  export *
+  module * { export * }
+}
